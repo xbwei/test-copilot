@@ -63,6 +63,16 @@ Follow the prompts to:
 2. Provide URLs to research (one per line)
 3. View the generated summary
 
+### Architecture Demo
+
+View how the components work together without API calls:
+
+```bash
+python demo.py
+```
+
+For detailed usage instructions and examples, see [USAGE.md](USAGE.md).
+
 ### Programmatic Usage
 
 You can also use the tool in your own Python code:
